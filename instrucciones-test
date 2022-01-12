@@ -1,0 +1,3 @@
+Parte 1. Debe desarrollar un programa que reciba a través del terminal ( o cmd ) una lista de cédulas de identidad, este programa debe hacer webscrapping del sitio http://www.cne.gob.ve/web/index.php  y generar un reporte en formato csv con la información electoral de todas las cédulas ingresadas. El reporte debe tener las siguientes columnas: Cédula, Nombre, Estado, Municipio, Parroquia Debe ser capaz de manejar las excepciones de formato en la consulta de los datos. 
+
+Parte 2. Debe crear un programa que consulte datos de la siguiente API : https://covid19-api.com/docs obtener los reportes de todos los países y generar un csv con pandas que contenga únicamente las siguientes columnas: País confirmados, recuperados, muertos y críticos.
